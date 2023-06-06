@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 600px;
+    background-color: black;
+    margin: 0 auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+.titulo {
+    
+    
+    display: block;
+    
+    font-size: 50px;
+    padding: 32px;
+    margin: 0 150px;
+    color: white;
+}
+.link {
+    display: block;
+    margin: 50px;;
+    text-decoration: none;
+    color: white;
+    
+}
